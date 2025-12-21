@@ -1,0 +1,8 @@
+{
+  "name": "MemoryMuse",
+  "description": "An emotionally intelligent AI that curates human memories with honesty, softness, and depth. Synthesize voice journals and visual context into poetic memory chapters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
